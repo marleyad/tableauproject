@@ -3,6 +3,8 @@
 ## Project Overview
 This project involves analyzing a fictitious sales dataset for a company across various U.S. regions, using Tableau for data visualization. The objective is to uncover analytical insights and effectively communicate them through various charts, a dashboard, and a Tableau story. The project showcases skills in data visualization, analysis, and storytelling with data.
 
+### TABLEAU LINK HERE (https://public.tableau.com/app/profile/adam.marley7142/vizzes)
+
 ## Top 5 Skills Highlighted
 
 1. **Data Integration and Preparation:** Successfully joined three or more tables from the dataset, ensuring the analysis used a comprehensive data source for insights.
