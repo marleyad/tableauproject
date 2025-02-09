@@ -5,7 +5,7 @@ This project involves analyzing a fictitious sales dataset for a company across 
   
 <b>Tableau Link Here:</b> (https://public.tableau.com/app/profile/adam.marley7142/vizzes)  
   
-## Skills Highlighted       
+## Skills Highlighted         
   
 1. **Data Integration and Preparation:** Successfully joined three or more tables from the dataset, ensuring the analysis used a comprehensive data source for insights.
 2. **Advanced Data Visualization:** Created multiple distinct standard and statistical charts, including bar charts, line charts, scatter plots, and dual-axis charts to present data in a visually engaging and informative manner.
