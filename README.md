@@ -14,7 +14,7 @@ This project involves analyzing a fictitious sales dataset for a company across 
 5. **Data Storytelling:** Crafted a Tableau story with a clear and logical narrative, guiding the user through analytical insights and conclusions derived from the data.
 
 ## Project Components 
-
+ 
 1. **Standard Charts:** Created four or more standard charts (e.g., bar chart, line chart) to display key sales metrics and trends.
 2. **Statistical Charts:** Developed three or more statistical charts (e.g., scatter plot, histogram) to explore data distributions and relationships.
 3. **Dual-Axis Chart:** Designed a dual-axis chart to show comparative analysis of different metrics.
